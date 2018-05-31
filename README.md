@@ -23,11 +23,10 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 * **ResearchStack documentation:** [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
 
 * **Getting Started:**
-  * [Instructions](https://github.com/ResearchSuite/Docs/blob/master/INFO%205555%20ResearchSuite%20Setup%20Tutorial.pdf)
   * [Android ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuiteDemo.git)
+  * [Step-by-step tutorial](https://docs.google.com/presentation/d/1k43p1Y1f3kubWCeWUIBFi3kLVN8gWFoHozA9gBRrS2s/edit?usp=sharing)
 
 * **Available Android demo projects:**
 
 
-### **Tutorial**
-* [Step-by-step tutorial(Android)](https://docs.google.com/presentation/d/1k43p1Y1f3kubWCeWUIBFi3kLVN8gWFoHozA9gBRrS2s/edit?usp=sharing)
+
