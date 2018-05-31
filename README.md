@@ -41,9 +41,6 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 ***
 ### **iOS**
 
-
-* **ResearchKit documentation:** [http://researchkit.org/docs/index.html](http://researchkit.org/docs/index.html)
-
 * **Getting Started:**
   * [iOS ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-iOS) - generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on iOS and stores the data collected on the study server.
 
@@ -57,8 +54,6 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 ***
 ### **Android**
 
-* **ResearchStack documentation:** [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
-
 * **Getting Started:**
   * [Android ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-Android) - generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on Android and stores the data collected on the study server.
 
@@ -70,4 +65,8 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
   * [AVA PAM App - Android](https://github.com/ResearchSuite/AVA-PAM-Android) - generates a PAM survey and stores the data collected on your Android device
 
 
-
+***
+### **Reference**
+* ResearchStack documentation: [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
+* ResearchKit documentation: [http://researchkit.org/docs/index.html](http://researchkit.org/docs/index.html)
+* Kizer, J., Sahaguet, A., Lakin, N., Carroll, M., Pollak, J. P., & Estrin, D. (2016). Internet Scale Research Studies using SDL-RX. arXiv preprint arXiv:1609.09767. [Internet Scale Research Studies using SDL-R_x](https://arxiv.org/pdf/1609.09767.pdf)
