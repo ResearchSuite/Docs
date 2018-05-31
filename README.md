@@ -34,7 +34,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
   <img src="https://github.com/ResearchSuite/Docs/blob/master/geofence.png?raw=true" width="200">
 
 
-
+***
 ### **iOS**
 ***
 
@@ -49,7 +49,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
   * [AVA MEDL Reference App - iOS](https://github.com/ResearchSuite/AVA-MEDL-iOS)  - generates a MEDL survey and stores the results on your iOS device
   * [AVA PAM Reference App - iOS](https://github.com/ResearchSuite/AVA-PAM-iOS) - generates a PAM survey and stores the results on your iOS device
 
-
+***
 ### **Android**
 ***
 * **ResearchStack documentation:** [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
@@ -60,7 +60,6 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 
 * **Available Android demo projects:**
   * [AVA YADL Reference App - Android](https://github.com/ResearchSuite/AVA-YADL-Android) - generates a YADL survey and stores the results on your Android device
-
   * [AVA MEDL Reference App - Android](https://github.com/ResearchSuite/AVA-MEDL-Android) - generates a MEDL survey and stores the results on your Android device
   * [AVA PAM Reference App - Android](https://github.com/ResearchSuite/AVA-PAM-Android) - generates a PAM survey and stores the results on your Android device
 
