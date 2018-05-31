@@ -17,6 +17,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 * Geofencing Task
 
 * Demographic Task
+![](https://github.com/ResearchSuite/Docs/blob/master/Slide1.png?raw=true)
 
 * Notification Task
 
