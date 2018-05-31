@@ -46,7 +46,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 * **ResearchKit documentation:** [http://researchkit.org/docs/index.html](http://researchkit.org/docs/index.html)
 
 * **Getting Started:**
-  * [iOS ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-iOS) - Generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on iOS and stores the data collected on the study server.
+  * [iOS ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-iOS) - generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on iOS and stores the data collected on the study server.
 
   
 
@@ -61,7 +61,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 * **ResearchStack documentation:** [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
 
 * **Getting Started:**
-  * [Android ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-Android) - Generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on Android and stores the data collected on the study server.
+  * [Android ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-Android) - generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on Android and stores the data collected on the study server.
 
   * [Step-by-step tutorial](https://docs.google.com/presentation/d/1k43p1Y1f3kubWCeWUIBFi3kLVN8gWFoHozA9gBRrS2s/edit?usp=sharing)
 
