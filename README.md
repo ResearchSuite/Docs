@@ -9,17 +9,23 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 ### **ResearchSuite SDL-Rx Survey Tasks**
 ***
 
-* AVA YADL Task
-![]()
+* AVA YADL Full Assessment Task
+![](https://github.com/ResearchSuite/Docs/blob/master/yadlfull.png?raw=true)
 
+* AVA YADL Spot Assessment Task
+![](https://github.com/ResearchSuite/Docs/blob/master/yadlspot.png?raw=true)
+ 
 * AVA PAM Task
+![](https://github.com/ResearchSuite/Docs/blob/master/pam.png?raw=true)
 
 * Geofencing Task
+![](https://github.com/ResearchSuite/Docs/blob/master/geofence.png?raw=true)
 
 * Demographic Task
-![](https://github.com/ResearchSuite/Docs/blob/master/Slide1.png?raw=true)
+![](https://github.com/ResearchSuite/Docs/blob/master/demography.png?raw=true)
 
 * Notification Task
+![](https://github.com/ResearchSuite/Docs/blob/master/notification.png?raw=true)
 
 
 
