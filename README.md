@@ -46,13 +46,14 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 * **ResearchKit documentation:** [http://researchkit.org/docs/index.html](http://researchkit.org/docs/index.html)
 
 * **Getting Started:**
-  * [iOS ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-iOS)
+  * [iOS ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-iOS) - Generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on iOS and stores the data collected on the study server.
+
   
 
 * **Other available iOS demo projects:**
-  * [AVA YADL Reference App - iOS](https://github.com/ResearchSuite/AVA-YADL-iOS) - generates a YADL survey and stores the results on your iOS device
-  * [AVA MEDL Reference App - iOS](https://github.com/ResearchSuite/AVA-MEDL-iOS)  - generates a MEDL survey and stores the results on your iOS device
-  * [AVA PAM Reference App - iOS](https://github.com/ResearchSuite/AVA-PAM-iOS) - generates a PAM survey and stores the results on your iOS device
+  * [AVA YADL Reference App - iOS](https://github.com/ResearchSuite/AVA-YADL-iOS) - generates a YADL survey and stores the data collected on your iOS device
+  * [AVA MEDL Reference App - iOS](https://github.com/ResearchSuite/AVA-MEDL-iOS)  - generates a MEDL survey and stores the data collected on your iOS device
+  * [AVA PAM Reference App - iOS](https://github.com/ResearchSuite/AVA-PAM-iOS) - generates a PAM survey and stores the data collected on your iOS device
 
 ***
 ### **Android**
@@ -60,13 +61,14 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 * **ResearchStack documentation:** [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
 
 * **Getting Started:**
-  * [Android ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-Android)
+  * [Android ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-Android) - Generates ResearchSuite surveys (YADL, MEDL, PAM, Demographics, Notifications, Geofencing) on Android and stores the data collected on the study server.
+
   * [Step-by-step tutorial](https://docs.google.com/presentation/d/1k43p1Y1f3kubWCeWUIBFi3kLVN8gWFoHozA9gBRrS2s/edit?usp=sharing)
 
 * **Available Android demo projects:**
-  * [AVA YADL Reference App - Android](https://github.com/ResearchSuite/AVA-YADL-Android) - generates a YADL survey and stores the results on your Android device
-  * [AVA MEDL Reference App - Android](https://github.com/ResearchSuite/AVA-MEDL-Android) - generates a MEDL survey and stores the results on your Android device
-  * [AVA PAM Reference App - Android](https://github.com/ResearchSuite/AVA-PAM-Android) - generates a PAM survey and stores the results on your Android device
+  * [AVA YADL Reference App - Android](https://github.com/ResearchSuite/AVA-YADL-Android) - generates a YADL survey and stores the data collected on your Android device
+  * [AVA MEDL Reference App - Android](https://github.com/ResearchSuite/AVA-MEDL-Android) - generates a MEDL survey and stores the data collected on your Android device
+  * [AVA PAM Reference App - Android](https://github.com/ResearchSuite/AVA-PAM-Android) - generates a PAM survey and stores the data collected on your Android device
 
 
 
