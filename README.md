@@ -10,22 +10,28 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 ***
 
 * AVA YADL Full Assessment Task
-<img src="https://github.com/ResearchSuite/Docs/blob/master/yadlfull.png?raw=true" width="300">
+***
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/yadlfull.png?raw=true" width="500">
 
 * AVA YADL Spot Assessment Task
-<img src="https://github.com/ResearchSuite/Docs/blob/master/yadlspot.png?raw=true" width="300">
+***
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/yadlspot.png?raw=true" width="500">
  
 * AVA PAM Task
-<img src="https://github.com/ResearchSuite/Docs/blob/master/pam.png?raw=true" width="300">
+***
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/pam.png?raw=true" width="200">
 
 * Geofencing Task
-<img src="https://github.com/ResearchSuite/Docs/blob/master/geofence.png?raw=true" width="300">
+***
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/geofence.png?raw=true" width="200">
 
 * Demographic Task
-<img src="https://github.com/ResearchSuite/Docs/blob/master/demography.png?raw=true" width="300">
+***
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/demography.png?raw=true" width="500">
 
 * Notification Task
-<img src="https://github.com/ResearchSuite/Docs/blob/master/notification.png?raw=true" width="300">
+***
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/notification.png?raw=true" width="200">
 
 
 
