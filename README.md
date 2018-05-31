@@ -36,7 +36,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 
 ***
 ### **iOS**
-***
+
 
 * **ResearchKit documentation:** [http://researchkit.org/docs/index.html](http://researchkit.org/docs/index.html)
 
@@ -51,7 +51,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 
 ***
 ### **Android**
-***
+
 * **ResearchStack documentation:** [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
 
 * **Getting Started:**
