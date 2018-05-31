@@ -9,6 +9,16 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 ### **ResearchSuite SDL-Rx Survey Tasks**
 ***
 
+* AVA YADL Task
+![]()
+
+* AVA PAM Task
+
+* Geofencing Task
+
+* Demographic Task
+
+* Notification Task
 
 
 
