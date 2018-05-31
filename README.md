@@ -5,15 +5,17 @@ ResearchSuite is an extension of the ResearchKit(iOS) and ResearchStack(Android)
 ResearchSuite was built on top of ResearchKit/ResearchStack and extends the available surveys to include adaptable visual assessments and custom active tasks and supports integration of various backend modules.
 
 In general terms, the structure of a ResearchSuite app is defined by a JSON file, which specifies the survey or active task steps to be instantiated by the app. The JSON file is converted into an array of Step objects, which the application uses to create a Task using the ResearchSuite Task Builder, which it presents to the research participant. The results of the task are handled by the ResearchSuite Results Processor, which includes modules for storing the results locally and emailing them to researcher, sending them to the Ohmage-Omh study manager, or sending them to a custom server.
+<p align="center">
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/rs-diagram.png?raw=true" width="500">
+</p>
 
-<img src="https://github.com/ResearchSuite/Docs/blob/master/rs-diagram.png?raw=true" width="500">
 
 ### **ResearchSuite SDL-Rx Survey Tasks ([iOS](https://github.com/ResearchSuite/sdl-rkx),[Android](https://github.com/ResearchSuite/sdl-rsx))**
 ***
 
 * **Demographic Task**
 
-  <img src="https://github.com/ResearchSuite/Docs/blob/master/demography.png?raw=true" width="500">
+  <img src="https://github.com/ResearchSuite/Docs/blob/master/demography.png?raw=true" width="500" >
 
 * **Notification Task**
 
