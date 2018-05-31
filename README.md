@@ -4,9 +4,7 @@ ResearchSuite is an extension of the ResearchKit(iOS) and ResearchStack(Android)
 
 ResearchSuite was built on top of ResearchKit/ResearchStack and extends the available surveys to include adaptable visual assessments and custom active tasks and supports integration of various backend modules.
 
-In general terms, the structure of a ResearchSuite app is defined by a JSON file, which specifies the survey or active task steps to be instantiated by the app. The JSON file is converted into an array of Step objects by the ResearchSuite Task Builder, which the application uses to create a Task presenting to the research participant. The results of the task are handled by the ResearchSuite Results Processor, which includes modules for storing the results locally and emailing them to researcher, sending them to the Ohmage-Omh study manager, or sending them to a custom server.
-
-
+In general terms, the structure of a ResearchSuite app is defined by a JSON file, which specifies the survey or active task steps to be instantiated by the app. The JSON file is converted into an array of Step objects, which the application uses to create a Task using the ResearchSuite Task Builder, which it presents to the research participant. The results of the task are handled by the ResearchSuite Results Processor, which includes modules for storing the results locally and emailing them to researcher, sending them to the Ohmage-Omh study manager, or sending them to a custom server.
 
 ### **ResearchSuite SDL-Rx Survey Tasks ([iOS](https://github.com/ResearchSuite/sdl-rkx),[Android](https://github.com/ResearchSuite/sdl-rsx))**
 ***
@@ -47,9 +45,10 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
   
 
 * **Other available iOS demo projects:**
-  * [AVA MEDL Reference App](https://github.com/ResearchSuite/AVA-MEDL-iOS)
-  * [AVA YADL Reference App](https://github.com/ResearchSuite/AVA-YADL-iOS)
-  * [AVA PAM Reference App](https://github.com/ResearchSuite/AVA-PAM-iOS)
+  * [AVA YADL Reference App - iOS](https://github.com/ResearchSuite/AVA-YADL-iOS) - generates a YADL survey and stores the results on your iOS device
+  * [AVA MEDL Reference App - iOS](https://github.com/ResearchSuite/AVA-MEDL-iOS)  - generates a MEDL survey and stores the results on your iOS device
+  * [AVA PAM Reference App - iOS](https://github.com/ResearchSuite/AVA-PAM-iOS) - generates a PAM survey and stores the results on your iOS device
+
 
 ### **Android**
 ***
@@ -60,9 +59,10 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
   * [Step-by-step tutorial](https://docs.google.com/presentation/d/1k43p1Y1f3kubWCeWUIBFi3kLVN8gWFoHozA9gBRrS2s/edit?usp=sharing)
 
 * **Available Android demo projects:**
-  * [AVA YADL Reference App](https://github.com/ResearchSuite/AVA-YADL-Android)
-  * [AVA MEDL Reference App](https://github.com/ResearchSuite/AVA-MEDL-Android)
-  * [AVA PAM Reference App](https://github.com/ResearchSuite/AVA-PAM-Android)
+  * [AVA YADL Reference App - Android](https://github.com/ResearchSuite/AVA-YADL-Android) - generates a YADL survey and stores the results on your Android device
+
+  * [AVA MEDL Reference App - Android](https://github.com/ResearchSuite/AVA-MEDL-Android) - generates a MEDL survey and stores the results on your Android device
+  * [AVA PAM Reference App - Android](https://github.com/ResearchSuite/AVA-PAM-Android) - generates a PAM survey and stores the results on your Android device
 
 
 
