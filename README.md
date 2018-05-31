@@ -69,4 +69,4 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 ### **Reference**
 * ResearchStack documentation: [http://researchstack.org/#documentation](http://researchstack.org/#documentation)
 * ResearchKit documentation: [http://researchkit.org/docs/index.html](http://researchkit.org/docs/index.html)
-* Kizer, J., Sahaguet, A., Lakin, N., Carroll, M., Pollak, J. P., & Estrin, D. (2016). Internet Scale Research Studies using SDL-RX. arXiv preprint arXiv:1609.09767. [PDF](https://arxiv.org/pdf/1609.09767.pdf)
+* Kizer, J., Sahaguet, A., Lakin, N., Carroll, M., Pollak, J. P., & Estrin, D. (2016). Internet Scale Research Studies using SDL-RX. arXiv preprint arXiv:1609.09767. [[PDF]](https://arxiv.org/pdf/1609.09767.pdf)
