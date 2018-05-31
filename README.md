@@ -23,9 +23,9 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
   
 
 * **Other available iOS demo projects:**
-  * [AVA MEDL App](https://github.com/ResearchSuite/MEDL-Reference-App)
-  * [AVA YADL App](https://github.com/ResearchSuite/YADL-Reference-App)
-  * [AVA PAM App](https://github.com/ResearchSuite/PAM-Reference-App)
+  * [AVA MEDL Reference App](https://github.com/ResearchSuite/AVA-MEDL-iOS)
+  * [AVA YADL Reference App](https://github.com/ResearchSuite/AVA-YADL-iOS)
+  * [AVA PAM Reference App](https://github.com/ResearchSuite/AVA-PAM-iOS)
 
 ### **Android**
 ***
@@ -36,8 +36,9 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
   * [Step-by-step tutorial](https://docs.google.com/presentation/d/1k43p1Y1f3kubWCeWUIBFi3kLVN8gWFoHozA9gBRrS2s/edit?usp=sharing)
 
 * **Available Android demo projects:**
-  * [AVA MEDL App](https://github.com/ResearchSuite/AVA-MEDL-Android)
-  * [AVA YADL App](https://github.com/ResearchSuite/AVA-YADL-Android)
-  * [AVA PAM App](https://github.com/ResearchSuite/AVA-PAM-Android)
+  * [AVA YADL Reference App](https://github.com/ResearchSuite/AVA-YADL-Android)
+  * [AVA MEDL Reference App](https://github.com/ResearchSuite/AVA-MEDL-Android)
+  * [AVA PAM Reference App](https://github.com/ResearchSuite/AVA-PAM-Android)
+
 
 
