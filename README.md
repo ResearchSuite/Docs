@@ -14,7 +14,7 @@ In general terms, the structure of a ResearchSuite app is defined by a JSON file
 
 * **Getting Started:**
   * [Instructions]()
-  * [iOS ResearchSuite Demo]https://github.com/ResearchSuite/ResearchSuite-Demo-iOS)
+  * [iOS ResearchSuite Demo](https://github.com/ResearchSuite/ResearchSuite-Demo-iOS)
   
 
 * **Available iOS demo projects:**
