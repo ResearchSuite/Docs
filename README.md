@@ -1,10 +1,10 @@
 # Introduction
 
-ResearchSuite is an extension of the ResearchKit(iOS) and ResearchStack(Android) open source frameworks for developing research study apps, which allow for researchers to easily develop intuitive and standardized data-collecting mobile apps. 
+ResearchSuite is an extension of the [ResearchKit](http://researchkit.org)(iOS) and [ResearchStack](http://researchstack.org/)(Android) open source frameworks for developing research study apps, which allow for researchers to easily develop intuitive and standardized data-collecting mobile apps. 
 
 ResearchSuite was built on top of ResearchKit/ResearchStack and extends the available surveys to include adaptable visual assessments and custom active tasks and supports integration of various backend modules.
 
-In general terms, the structure of a ResearchSuite app is defined by a JSON file, which specifies the survey or active task steps to be instantiated by the app. The JSON file is converted into an array of Step objects, which the application uses to create a Task using the ResearchSuite Task Builder, which it presents to the research participant. The results of the task are handled by the ResearchSuite Results Processor, which includes modules for storing the results locally and emailing them to researcher, sending them to a custom server (such as LS2) or Sage Bionetworks Bridge.
+In general terms, the structure of a ResearchSuite app is defined by a JSON file, which specifies the survey or active task steps to be instantiated by the app. The JSON file is converted into an array of Step objects, which the application uses to create a Task using the ResearchSuite Task Builder, which it presents to the research participant. The results of the task are handled by the ResearchSuite Results Processor, which includes modules for storing the results locally and emailing them to researcher, sending them to a custom server (such as [LS2](https://github.com/CuriosityHealth/LS2)) or [Sage Bionetworks Bridge](https://developer.sagebridge.org/articles/).
 
 <p align="center">
   <img src="https://github.com/ResearchSuite/Docs/blob/master/rs-diagram.png?raw=true" width="810">
